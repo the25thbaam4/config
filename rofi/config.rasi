@@ -1,0 +1,9 @@
+ configuration {
+           display-drun:    "Activate";
+           display-run:     "Execute";
+           show-icons:      true;
+           icon-theme: "Papirus-dark";
+                 }
+
+
+@theme "~/.config/rofi/simple-tokyonight.rasi"

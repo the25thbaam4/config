@@ -1,0 +1,27 @@
+# Aliases File
+
+alias sudo='sudo'
+alias ll='exa -lah --color=auto --group-directories-first'
+alias ls='exa --color=auto --group-directories-first'
+alias la='exa -a --group-directories-first --color=auto'
+alias cat='bat' 
+alias rm='rm -i'
+alias mv='mv -i'
+alias cp='cp -i'
+alias v='nvim'
+alias vim='nvim'
+alias hh='history -i 0'
+alias pac='sudo pacman'
+alias brc='nvim ~/.bashrc'
+alias awconf='nvim ~/.config/awesome/rc.lua'
+alias grep='grep --color=auto'
+alias egrep='egrep --color=auto'
+alias fgrep='fgrep --color=auto'
+alias zrc='nvim ~/.config/zsh/.zshrc'
+alias sauce='source ~/.config/zsh/.zshrc'
+alias df='df -h'     # human-readable sizes
+alias free='free -m' # show sizes in MB
+alias batt='upower -i /org/freedesktop/UPower/devices/battery_BAT0 | grep %'
+alias r='ranger'
+alias sys='sudo systemctl'
+

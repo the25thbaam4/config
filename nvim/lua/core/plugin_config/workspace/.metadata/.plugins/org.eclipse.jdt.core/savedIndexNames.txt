@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/home/ace/.config/nvim/lua/core/plugin_config/workspace/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+1539625237.index
+3842426239.index
