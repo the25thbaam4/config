@@ -1,1 +1,1 @@
-    Some linux .config files.
+# linux .config files.
