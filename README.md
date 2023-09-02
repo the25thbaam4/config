@@ -1,1 +1,1 @@
-# linux .config files.
+# linux dot config files.
